@@ -1,0 +1,15 @@
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\bin\Debug\net6.0\StaticExercise.exe
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\bin\Debug\net6.0\StaticExercise.deps.json
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\bin\Debug\net6.0\StaticExercise.runtimeconfig.json
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\bin\Debug\net6.0\StaticExercise.dll
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\bin\Debug\net6.0\StaticExercise.pdb
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\obj\Debug\net6.0\StaticExercise.csproj.AssemblyReference.cache
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\obj\Debug\net6.0\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfoInputs.cache
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfo.cs
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\obj\Debug\net6.0\StaticExercise.csproj.CoreCompileInputs.cache
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\obj\Debug\net6.0\StaticExercise.dll
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\obj\Debug\net6.0\refint\StaticExercise.dll
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\obj\Debug\net6.0\StaticExercise.pdb
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\obj\Debug\net6.0\StaticExercise.genruntimeconfig.cache
+C:\REPOS\TrueCoders\csharp\STATICkeyword\StaticExercise\obj\Debug\net6.0\ref\StaticExercise.dll

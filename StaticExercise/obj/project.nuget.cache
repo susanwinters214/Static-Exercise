@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "qrQZBxAgDHsLboMpvgCebpDMclUtdolKVwJXB+1qzMwIgcez0dSBaOJDvJLoG0X39kNmeJLWqYRCJLVBa9xCug==",
+  "dgSpecHash": "bHntz80SeRNK0kAUR3sijeAXnE8yVpUoTjrV/lq1LthgeU2WAXrZ4q7+4n8BBW5kQCTwLAQE9L4S5uu825X7YA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\StaticExercise\\StaticExercise\\StaticExercise.csproj",
+  "projectFilePath": "C:\\REPOS\\TrueCoders\\csharp\\STATICkeyword\\StaticExercise\\StaticExercise.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sitefinity.com/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }
